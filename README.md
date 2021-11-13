@@ -16,6 +16,7 @@
 <h2><i>Me puedes encontrar en:</i></h2>
 
 - <a href="https://www.linkedin.com/in/lia-serrano/"> LinkedIn</a>
+- liaserranolopez@gmail.com
 
 
 <h2><i>Un poco sobre mí:</i></h2>
