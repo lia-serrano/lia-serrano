@@ -24,5 +24,4 @@
 - 🐩 Tengo 4 perritos hermosos.
 - 🙌🏻 Me gustan las manualidades y el diseño.
 - 🧁 Me encanta la repostería.
-- 👩🏻‍🍳 Tengo un emprendimiento(ahora en pausa) de ricos antojos, te invito a conocer <a href="https://www.instagram.com/antojos.pink/"> Antojos Pink.</a>
 - 🤖 Me creo "Yo, Robot".
