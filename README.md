@@ -7,7 +7,7 @@
 
 <h2><i>Te cuento mí experiencia como Front-End:</i></h2>
 
-- 💻 He desarrollado App Web´s con HTML, CSS, JS, Firebase, Bootstrap y React JS.
+- 💻 He desarrollado mis proyectos con HTML, CSS, JS, Firebase, Bootstrap y React JS.
 - 🎨 He diseñado mis proyectos con Figma.
 - 👩🏻‍💻 He desarrollado de manera Freelance Landing Page.
 - 👩‍👩‍👦‍👦 Me gusta trabajar en equipos colaborativos.
