@@ -5,7 +5,7 @@
 </p>
 <p align='center'>Soy una persona muy curiosa 🧐 y gracias a esto conocí el mundo tech👩🏻‍💻. Buscando información sobre conceptos que hablaban los desarrolladores de mi último trabajo llegué a Laboratoria 🎓 y pude formarme como Desarrolladora Web Front-End 💻.</p>
 
-<h2><i>Te cuento mí experiencia como Front-End:</i></h2>
+<h2><i>Te cuento mí experiencia laboral:</i></h2>
 
 - 💻 He desarrollado mis proyectos con HTML, CSS, JS, Firebase, Bootstrap y React JS.
 - 🎨 He diseñado mis proyectos con Figma.
