@@ -3,7 +3,7 @@
 <h1 align='center'>Hola!👋🏻<br>Soy Lia🌸</h1>
 <p align='center'>
 </p>
-<p align='center'>Soy una persona muy curiosa 🧐 y gracias a esto conocí el mundo tech👩🏻‍💻. Buscando información sobre conceptos que hablaban los desarrolladores de mi último trabajo llegué a Laboratoria 🎓 y pude formarme como Desarrolladora Web Front-End 💻.</p>
+<p align='center'>Soy una persona muy curiosa 🧐 y gracias a esto conocí el mundo tech👩🏻‍💻.</p>
 
 <h2><i>Te cuento mí experiencia laboral:</i></h2>
 
