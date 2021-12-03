@@ -11,7 +11,6 @@
 - 🎨 He diseñado mis proyectos con Figma.
 - 👩🏻‍💻 He desarrollado de manera Freelance Landing Page.
 - 👩‍👩‍👦‍👦 Me gusta trabajar en equipos colaborativos.
-- 🤓 Actualmente me encuentro aprendiendo React.
 
 <h2><i>Me puedes encontrar en:</i></h2>
 
