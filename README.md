@@ -9,7 +9,7 @@
 
 - 💻 He desarrollado mis proyectos con HTML, CSS, JS, Firebase, Bootstrap y React JS.
 - 🎨 He diseñado mis proyectos con Figma.
-- 👩🏻‍💻 He desarrollado de manera Freelance Landing Page.
+- 👩🏻‍💻 He trabajado de manera Freelance desarrollando Landing Pages y Mailings.
 - 👩‍👩‍👦‍👦 Me gusta trabajar en equipos colaborativos.
 
 <h2><i>Me puedes encontrar en:</i></h2>
